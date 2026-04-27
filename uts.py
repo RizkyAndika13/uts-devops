@@ -9,7 +9,7 @@ print("Memulai proses analisis data")
 nilai_str = os.getenv('DATA_NILAI', '85,90,78,92,88')
 nilai = list(map(int, nilai_str.split(',')))
 
-# Koneksi ke database 
+# Koneksi ke database
 while True:
     try:
         conn = psycopg2.connect(
