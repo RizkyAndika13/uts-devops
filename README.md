@@ -1,4 +1,4 @@
-# UTS DevOps for Sains Data
+# Implementasi DevOps pada Aplikasi Analisis Data Nilai Mahasiswa Menggunakan Docker, PostgreSQL, dan CI/CD
 
 ## Deskripsi Proyek
 Proyek ini merupakan aplikasi sederhana untuk melakukan analisis data nilai mahasiswa. Data diambil dari environment variable, diproses menggunakan Python, kemudian disimpan ke dalam database PostgreSQL dan file CSV.
@@ -17,6 +17,6 @@ Aplikasi mengambil data dari environment variable → memproses data → menyimp
 
 ---
 
-## ▶Cara Menjalankan
+## Cara Menjalankan
 
 1. Clone repository:
