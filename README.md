@@ -39,7 +39,7 @@ Sistem terdiri dari beberapa komponen:
 
 Alur kerja sistem:
 
-Data Nilai → Python (Pandas) → PostgreSQL → Export CSV
+Data Nilai -> Python (Pandas) -> PostgreSQL -> Export CSV
 
 ---
 
@@ -100,9 +100,6 @@ server_uas_analitik : ok=2 changed=2 failed=0
 
 Pipeline CI/CD berhasil dijalankan secara otomatis setiap push ke repository.
 
-Screenshot ada di file :screenshot-play-recap.png
-
-
 ---
 
 ## Repository GitHub
@@ -110,9 +107,14 @@ Screenshot ada di file :screenshot-play-recap.png
 https://github.com/RizkyAndika13/uts-devops
 
 ---
+##  PLAY RECAP
+
+![Bukti Screenshot PLAY RECAP](screenshot-play-recap.png)
 
 ## Penulis
 
-Rizky Andika
-UIN Salatiga
+Rizky Andika_
+Sains Data_
+Sains dan Teknologi_
+UIN Salatiga_
 Mata Kuliah DevOps
